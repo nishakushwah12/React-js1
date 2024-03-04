@@ -1,0 +1,88 @@
+
+
+
+   body{
+    background-color: #12587a;
+}
+
+
+.moblogo {
+    display: none;
+}
+.d-block{
+    width: 100%;
+    height:400px;
+    
+}
+
+.carousel {
+    position: relative;
+}
+
+.dashpage {
+    padding-top: 130px;
+}
+
+.navbar-nav {
+    --bs-nav-link-padding-x: 0;
+    --bs-nav-link-padding-y: 0.5rem;
+    --bs-nav-link-font-weight: ;
+    --bs-nav-link-color: var(--bs-navbar-color);
+    --bs-nav-link-hover-color: var(--bs-navbar-hover-color);
+    --bs-nav-link-disabled-color: var(--bs-navbar-disabled-color);
+}
+
+.navbar-nav li a {
+    color: white;
+    font-weight: 600;
+    font-size: 21px;
+    display: block;
+
+}
+
+
+
+.navbar {
+    /* background-color: #141518; */
+    background-color: #3c32327d;
+    color: var(--bs-navbar-brand-color);
+}
+
+
+
+.card1 :hover{
+    background-color: rgb(255, 217, 0);
+}
+
+.card2 :hover{
+    background-color: rgb(16, 143, 202);
+}.card3 :hover{
+    background-color: rgb(233, 49, 95)
+}
+
+
+
+.logo {
+width: 120px;
+height: 120px;
+margin: auto;
+vertical-align: middle;
+}
+.regs_heading {
+letter-spacing: 1px;
+font-weight: 600;
+color: #12587a;
+font-size: 30px;
+}
+
+.logo1{
+    width:100%;
+  
+  height:600px;
+}
+
+.register_logo{
+    width:121px;
+    height:auto;
+    margin:Auto
+}
